@@ -8,7 +8,7 @@ The cats expression reflects the current Git status. The screenshot shows what h
 
 ## How to install
 
-1. Place theme in `~.oh-my-zsh/custom/themes/kitty-crunch.zsh-theme`
+1. Place theme in `~/.oh-my-zsh/custom/themes/kitty-crunch.zsh-theme`
 2. Add the line `ZSH_THEME="kitty-crunch"` to your `.zshrc` file
 
 Enjoy!
